@@ -1,0 +1,21 @@
+{
+  "name": "DAICO_mag",
+  "version": "1.0.0",
+  "description": "Blockchain Todo List Powered By Ethereum",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && sexit 1"
+  },
+  "author": "borutkitak@gmail.com",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "bignumber.js": "^9.0.0",
+    "openzeppelin-solidity": "^2.3.0",
+    "truffle-contract": "^4.0.23"
+  }
+}
